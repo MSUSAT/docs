@@ -1,5 +1,5 @@
 # docs
-Documentation for MSUSAT
+Documentation for ColoradoCUBE
 
 ## Logo
 
